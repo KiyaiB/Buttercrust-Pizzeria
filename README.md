@@ -31,8 +31,6 @@ CSS
 
 JavaScript
 
-JQUERY
-
 # KNOWN BUGS
 
 There are no known Bugs.
