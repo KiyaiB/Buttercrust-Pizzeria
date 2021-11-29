@@ -15,7 +15,7 @@ This is a website that enables the user to order what type of pizza they want to
 
 Clone the repo
 
- git clone
+ git clone git@github.com:KiyaiB/Buttercrust-Pizzeria.git
  
 Open the project on vs code or your desired editor.
 
