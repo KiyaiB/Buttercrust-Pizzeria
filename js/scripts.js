@@ -27,12 +27,12 @@ var toppingPrice = [70, 70, 60, 60, 60]
 $(document).ready(function () {
   $("#pizzaMenu").submit(function (event) {
     event.preventDefault();
-    kenTable()
+    babTable()
     sumTable()
   });
 });
 
-function kenTable() {
+function babTable() {
   var size = parseInt($("#size").val());
   var sizeName1 = sizeName[size - 1]
   var crust = parseInt($("#crust").val());
